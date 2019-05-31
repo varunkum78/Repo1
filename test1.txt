@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is AACE-6F65
-
- Directory of C:\Users\varunkum\Desktop\MyProject
-
-05/31/2019  01:12 PM    <DIR>          .
-05/31/2019  01:12 PM    <DIR>          ..
-05/31/2019  01:12 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  184,074,203,136 bytes free
+Change 1
